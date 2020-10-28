@@ -2,5 +2,5 @@
 
 ### Simple web calculator with common operations
 
-#### You can try it here: https://manueldilena.github.io/WebCalculator/
+#### You can try it [HERE](https://manueldilena.github.io/WebCalculator/)
 
